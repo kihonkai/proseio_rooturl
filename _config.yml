@@ -23,6 +23,7 @@ version:             1.0.0
 
 prose:
   media: "media"
+  rooturl: _posts
   metadata:
     _posts:
       - name: "published"
